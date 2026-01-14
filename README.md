@@ -8,10 +8,10 @@ Each folder contains a side-by-side comparison:
 
 ## 📚 Pattern Index
 
-| # | Topic | The "Old" Pain Point | The "Modern" Solution | Code |
+| # | Topic | The "Old" Pain Point | The "Modern" Solution | Code | Tutorial / Guide |
 | :-- | :--- | :--- | :--- | :--: |
-| 01 | **Enhanced Enums** | Separating Data from Logic (Helpers) | Encapsulating Logic inside Enums | [View](./01_enhanced_enums/) |
-| 02 | **Switch Expressions** | Imperative & Noisy: Requires a switch statement that does something. Full of boilerplate like case, break, curly braces {}, and temporary variables (e.g., Widget widgetToShow;). It feels like writing legacy Java or C. | Functional & Clean: An expression that evaluates to a value. No case or break keywords. It maps input (State) directly to output (Widget) in one concise block using the arrow syntax (=>). | [View](./02_switch_expressions/) |
+| 01 | **Enhanced Enums** | Separating Data from Logic (Helpers) | Encapsulating Logic inside Enums | [View](./01_enhanced_enums/) | [Read on LinkedIn ↗](https://www.linkedin.com/posts/mohammed-faizan-shaikh_flutter-cleanarchitecture-fluttertips-activity-7416384705857671169-ObrS?utm_source=share&utm_medium=member_desktop&rcm=ACoAABbjMD8B8Uk5Y71REvLzTIJxai88ficQBNY) |
+| 02 | **Switch Expressions** | Imperative & Noisy: Requires a switch statement that does something. Full of boilerplate like case, break, curly braces {}, and temporary variables (e.g., Widget widgetToShow;). It feels like writing legacy Java or C. | Functional & Clean: An expression that evaluates to a value. No case or break keywords. It maps input (State) directly to output (Widget) in one concise block using the arrow syntax (=>). | [View](./02_switch_expressions/) | [Read on LinkedIn ↗](https://www.linkedin.com/posts/mohammed-faizan-shaikh_stop-writing-legacy-switch-statements-activity-7417109523229933568-FP-7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABbjMD8B8Uk5Y71REvLzTIJxai88ficQBNY) |
 
 ---
 
