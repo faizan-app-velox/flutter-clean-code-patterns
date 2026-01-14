@@ -11,7 +11,7 @@ Each folder contains a side-by-side comparison:
 | # | Topic | The "Old" Pain Point | The "Modern" Solution | Code |
 | :-- | :--- | :--- | :--- | :--: |
 | 01 | **Enhanced Enums** | Separating Data from Logic (Helpers) | Encapsulating Logic inside Enums | [View](./01_enhanced_enums/) |
-| 02 | **Switch Expressions** | *(Coming Soon)* |
+| 02 | **Switch Expressions** | Imperative & Noisy: Requires a switch statement that does something. Full of boilerplate like case, break, curly braces {}, and temporary variables (e.g., Widget widgetToShow;). It feels like writing legacy Java or C. | Functional & Clean: An expression that evaluates to a value. No case or break keywords. It maps input (State) directly to output (Widget) in one concise block using the arrow syntax (=>). | [View](./02_switch_expressions/) |
 
 ---
 
